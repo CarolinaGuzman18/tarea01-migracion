@@ -45,6 +45,7 @@ Esto podría incluir la implementación de nuevas políticas, la creación de ce
 2.	Cortés Ramos, A., & Fernández, A. (2020). ¿Cobertura universal? Las barreras en el acceso a la salud para la población refugiada nicaragüense en Costa Rica. _Anuario Centro de Investigación y Estudios Políticos_, 11, 255–287. [https://doi.org/10.15517/aciep.v0i11.43533 ](https://doi.org/10.15517/aciep.v0i11.43533)
 
 3.	Organización Internacional para las Migraciones. (s.f.). _Costa Rica: Acceso a los servicios de salud para las personas migrantes en situación irregular_. Migrantinfo. Recuperado de [https://migrantinfo.iom](https://migrantinfo.iom.int/es/node/119#:~:text=Las%20personas%20migrantes%20en%20situaci%C3%B3n,Caja%20Costarricense%20de%20Seguro%20Social.)
+
 4.	Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos. (2021). _Informe de la Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos_. [https://www.ohchr.org](https://www.ohchr.org/sites/default/files/2021-12/INT_CMW_INF_7940_S.pdf)
 
 ##### Elaborado por Carolina Guzmán Herrera en el marco del curso Programación en SIG de la Escuela de Geografía de la Universidad de Costa Rica.
